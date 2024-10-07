@@ -1,0 +1,14 @@
+section {
+  height: 100%;
+}
+
+.sectionTitle {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 5px;
+  text-align: center;
+}
+
+.sectionTitle h2 {
+  color: rgba(255, 255, 255, 0.7);
+  text-decoration: underline 1px solid white;
+}
